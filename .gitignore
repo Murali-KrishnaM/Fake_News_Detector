@@ -11,6 +11,14 @@ ENV/
 env.bak/
 venv.bak/
 
+# ---- Data ----
+dataSets/
+*.csv
+*.pickle
+*.pkl
+*.h5
+*.db
+
 # Explicitly ignore all subfolders inside venv (safety)
 venv/**
 
