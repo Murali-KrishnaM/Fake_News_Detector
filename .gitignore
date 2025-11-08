@@ -1,0 +1,39 @@
+# ---- Python bytecode ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual Environments ----
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Explicitly ignore all subfolders inside venv (safety)
+venv/**
+
+# ---- Configs & IDE ----
+*.log
+*.pot
+*.pyproj
+*.idea/
+*.vscode/
+*.mypy_cache/
+*.pytest_cache/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# ---- Data ----
+dataSets/
+*.csv
+*.pickle
+*.pkl
+*.h5
+*.db
+
+# ---- Misc ----
+*.env
+config.ini
