@@ -144,7 +144,7 @@ Rajalakshmi Engineering College, Chennai
 
  ML Enthusiast | Flask Developer
 
-🔗 [LinkedIn](www.linkedin.com/in/murali-krishna-m893) • 💻 [GitHub](https://github.com/Murali-KrishnaM)
+🔗 [LinkedIn](https://linkedin.com/in/murali-krishna-m893) • 💻 [GitHub](https://github.com/Murali-KrishnaM)
 
 ---
 
